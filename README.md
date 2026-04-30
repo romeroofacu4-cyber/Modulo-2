@@ -16,6 +16,6 @@ Los archivos pueden ser descargados mediante los siguientes atajos
 
 Los archivos pueden ser descargados mediante los siguientes atajos
 
-[Descarga Ejercicio 1.4 en PDF]
+[Descarga Ejercicio 1.4 en PDF](https://github.com/romeroofacu4-cyber/Modulo-2/blob/main/Ejercicio/Ejercicio%201.4.pdf)
 
 [Descarga el archivo zip. con todo el proyecto]
