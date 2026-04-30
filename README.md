@@ -8,7 +8,7 @@ Los archivos pueden ser descargados mediante los siguientes atajos
 
 [Descarga Algoritmos y Ejercicios en PDF](https://github.com/romeroofacu4-cyber/Modulo-2/blob/main/Algoritmos/Algoritmos%20y%20Ejercicios.pdf)
 
-[Descarga el archivo zip. con todo el proyecto]
+[Descarga el archivo zip. con todo el proyecto](https://github.com/romeroofacu4-cyber/Modulo-2/blob/main/Algoritmos/Algoritmos%20y%20Ejercicios.zip)
 
 [Hacé clic aquí para ver la presentación final publicada en RPubs]
 
